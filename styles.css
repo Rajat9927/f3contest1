@@ -1,0 +1,38 @@
+ul{
+    list-style: none;
+    display: flex;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    height: 89px;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    background: #000000;
+    
+}
+
+li{
+    width: 164px;height: 29px;left: 35px;top: 30px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    font-family: 'Inter';
+    color: #FFFFFF;
+}
+.mainHeading{
+    height: 77px;
+    left: 660px;
+    position: absolute;
+    top: 50px;
+    font-weight: 700;
+    font-size: 64px;
+    color: #000000;
+    font-family: 'Inter';
+}
+
+
